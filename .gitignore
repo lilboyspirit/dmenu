@@ -1,0 +1,8 @@
+# ignore generated files
+/config.h
+/drw.o
+/dmenu.o
+/stest.o
+/util.o
+/dmenu
+/stest
